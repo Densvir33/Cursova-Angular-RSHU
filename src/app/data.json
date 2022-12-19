@@ -1,0 +1,40 @@
+[
+  {
+    "title": "Day one",
+    "tracks": [
+      {
+        "id": "one-task",
+        "title": "one task"
+      },
+      {
+        "id": "two-task",
+        "title": "two task"
+      },
+      {
+        "id": "qa-panels",
+        "title": "Q&A panels",
+        "talks": [
+          {
+            "issueType": "task",
+            "text": "Upgrade",
+            "speaker": "Elana Olson, Erin Coughlan, Sam Julien",
+            "createdAt": "2019-01-01T09:26:05.026Z"
+          },
+          {
+            "issueType": "task",
+            "text": "UI",
+            "speaker": "Shmuela Jacobs, Ana Cidre, Sherry List, Kristiyan Kostadinov, Paul Gschwendtner, Katrin Freihofner",
+            "createdAt": "2019-02-01T09:26:05.026Z"
+          },
+          {
+            "issueType": "task",
+            "text": "Ivy",
+            "speaker": "Alex Rickabaugh, Jason Aden, Olivier Combe, Igor Minar, Misko Hevery",
+            "createdAt": "2019-03-01T09:26:05.026Z",
+            "image": "https://pbs.twimg.com/media/DoHCNnlUUAUWfhG.jpg"
+          }
+        ]
+      }
+    ]
+  }
+]
